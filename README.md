@@ -40,6 +40,6 @@ To open up neovim you'll need to enter 'nvim' and that's it\
 - `Esc` → Exit insert mode  \
 
   `fun fact:` You don't need :q to exit vim what's even better and also faster in my opinion is  by holding shift and pressing  ZZ\
-  In this config I'll be using `lazyvim` which will make things way simpler in my opinion.
+  In this config I'll be using `lazyvim` which will make things way simpler in my opinion.(you'll need nvim 0.11.2 to use download lazyvim so make sure you have it or newer ones)
 
 
