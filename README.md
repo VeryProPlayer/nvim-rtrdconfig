@@ -1,5 +1,5 @@
 # nvim-rtrdconfig
-Neovim configuration
+Bad Neovim configuration ( I hope not)
 
 # 🧰 How to Install Neovim on Linux
 
@@ -28,7 +28,18 @@ sudo apt install nvim
 ## Fedora
 sudo dnf install nvim
 ----
-To open up neovim you'll need to enter 'nvim' and that's it
-`fun fact: you don't need to close the terminal to exit nvim or vim`
+To open up neovim you'll need to enter 'nvim' and that's it\
+`fun fact:` you don't need to close the terminal to exit nvim or vim (that wasn't funny , I know)
+
+## 🧠 Useful Commands Inside Neovim
+- `:q` → Quit  
+- `:w` → Save file  
+- `:wq` → Save and quit  
+- `:help` → Open Neovim help  
+- `i` → Enter insert mode  
+- `Esc` → Exit insert mode  \
+
+  `fun fact:` You don't need :q to exit vim what's even better and also faster in my opinion is  by holding shift and pressing  ZZ\
+  In this config I'll be using `lazyvim` which will make things way simpler in my opinion.
 
 
