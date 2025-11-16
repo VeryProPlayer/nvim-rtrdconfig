@@ -6,3 +6,8 @@ Neovim is a powerful, modern version of Vim designed for better extensibility an
 
 ## 🧩 Step 1: Update Your System
 Run these commands to make sure your system is up to date:
+
+
+## 🅳 Debian
+Use the `apt` package manager:
+-sudo apt update
