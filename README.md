@@ -1,0 +1,2 @@
+# nvim-rtrdconfig
+Neovim configuration
